@@ -1,0 +1,10 @@
+C:\Users\Honda\AppData\Local\Temporary Projects\HttpWebClient\bin\Debug\HttpWebClient.dll
+C:\Users\Honda\AppData\Local\Temporary Projects\HttpWebClient\bin\Debug\HttpWebClient.pdb
+C:\Users\Honda\AppData\Local\Temporary Projects\HttpWebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Honda\AppData\Local\Temporary Projects\HttpWebClient\obj\Debug\HttpWebClient.dll
+C:\Users\Honda\AppData\Local\Temporary Projects\HttpWebClient\obj\Debug\HttpWebClient.pdb
+C:\Users\Honda\Documents\Visual Studio 2010\Projects\HttpWebClient\HttpWebClient\bin\Debug\HttpWebClient.dll
+C:\Users\Honda\Documents\Visual Studio 2010\Projects\HttpWebClient\HttpWebClient\bin\Debug\HttpWebClient.pdb
+C:\Users\Honda\Documents\Visual Studio 2010\Projects\HttpWebClient\HttpWebClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Honda\Documents\Visual Studio 2010\Projects\HttpWebClient\HttpWebClient\obj\Debug\HttpWebClient.dll
+C:\Users\Honda\Documents\Visual Studio 2010\Projects\HttpWebClient\HttpWebClient\obj\Debug\HttpWebClient.pdb
